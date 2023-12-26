@@ -2,4 +2,4 @@
 * `PDF` file is my report for this project
 * `customer-analysis-and-segmentation-with-k-means.ipynb` is source code
 * My work is to analysis information and separate customers into clusters for marketing purpose.
-* 
+![image](https://github.com/DuyAccel/PTNDM_SGU/assets/84909478/06f3daf3-f605-4d0e-9820-e5ff3f62113b)
